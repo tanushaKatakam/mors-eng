@@ -1,7 +1,7 @@
 Morse Code is a method of encoding text using sequences of dots (.) and dashes (-) to represent letters, numbers, and symbols. It was originally used in telegraphy and is still used in aviation, emergency signaling, and amateur radio. For example:
-i) A/a in Morse : .-
 
-ii) B/b in Morse : -...
+1) A/a in Morse : .-
+2) B/b in Morse : -...
 
 Both lower and upper cases are treated the same in morse code.
 
