@@ -1,0 +1,53 @@
+#box{
+    max-width:400px;
+    margin: 50px auto;
+    padding: 40px;
+    border: 2px solid #192e2f;
+    border-radius: 10px;
+    background-color: #2d6073;
+    text-align:center;
+
+}
+
+
+body{
+    margin:0;
+    height: 50vh;
+    padding:0;
+    text-align: center;
+    box-sizing:border-box;
+    background-color:azure;
+    justify-content:center;
+
+}
+
+#box section{
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    text-align: center;
+}
+
+#box textarea{
+    border: 2px solid skyblue;
+    border-radius : 10px;
+    margin: 20px 0;
+    font-weight: bold;
+    background-color: #202d31;
+}
+
+#box button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: royalblue;
+    font-weight: bold;
+    color: white;
+}
+
+button:hover{
+    background-color: blue;
+    border: 2px solid royalblue;
+    border-radius : 5px;
+    padding: 5px;
+}
