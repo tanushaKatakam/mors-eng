@@ -6,6 +6,7 @@ Morse Code is a method of encoding text using sequences of dots (.) and dashes (
 Both lower and upper cases are treated the same in morse code.
 
 What is 'Morseng' ? 
+
 'Morseng' is a simple and efficient application that helps users to - 
 1) convert english to morse code; type a message, tap Translate to get the morse equivalent instantly.
 2) convert morse code to english; type a morse sequence and the app decodes this into plain text.
